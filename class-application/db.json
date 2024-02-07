@@ -1,0 +1,61 @@
+{
+    "groceries": [
+      {
+        "id": 1,
+        "name": "Apple",
+        "qty": 5,
+        "price": 2.5,
+        "description": "Fresh red apples",
+        "image": "https://example.com/apple.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Banana",
+        "qty": 8,
+        "price": 1.0,
+        "description": "Yellow bananas",
+        "image": "https://example.com/banana.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Milk",
+        "qty": 2,
+        "price": 3.0,
+        "description": "Whole milk",
+        "image": "https://example.com/milk.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Bread",
+        "qty": 1,
+        "price": 2.0,
+        "description": "Freshly baked bread",
+        "image": "https://example.com/bread.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Eggs",
+        "qty": 12,
+        "price": 2.5,
+        "description": "Farm-fresh eggs",
+        "image": "https://example.com/eggs.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Bread1",
+        "qty": 1,
+        "price": 2.0,
+        "description": "Freshly baked bread",
+        "image": "https://example.com/bread.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Eggs1",
+        "qty": 12,
+        "price": 2.5,
+        "description": "Farm-fresh eggs",
+        "image": "https://example.com/eggs.jpg"
+      }
+    ]
+  }
+  
